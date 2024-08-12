@@ -29,13 +29,12 @@ This project is a personal portfolio website built using HTML, CSS, and JavaScri
 **1.** **Clone the repository:**
 
 ```bash
-git clone https://github.com/Ujjwaltyagi31/Phoenix.git
+git clone https://github.com/Ujjwaltyagi31/Personal-Portfolio-Web.git
 
 ```
 **2.** **Navigate to the Project Directory:**
 ```bash
-cd Phoenix
-```
+cd Personal-Portfoloio-Web```
  
 **3.** **Open "index.html.html" in your browser to view the website.**
 
