@@ -51,7 +51,7 @@ cd Personal-Portfoloio-Web
 
 ## File Structure
 ```bash
-Phoenix/
+Personal Portfolio Website/
 ├── css/
 │   ├── styles.css
 ├── js/
