@@ -34,7 +34,8 @@ git clone https://github.com/Ujjwaltyagi31/Personal-Portfolio-Web.git
 ```
 **2.** **Navigate to the Project Directory:**
 ```bash
-cd Personal-Portfoloio-Web```
+cd Personal-Portfoloio-Web
+```
  
 **3.** **Open "index.html.html" in your browser to view the website.**
 
